@@ -1,0 +1,7 @@
+create table produtos
+(
+	codigo int primary key,
+	nome text,
+	preco text,
+	qtd int
+);
